@@ -11,6 +11,7 @@ xdot = "*"
 [dev-packages]
 prospector = "*"
 yapf = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.7"
